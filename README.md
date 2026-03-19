@@ -1,5 +1,3 @@
-# Phase-3
-Phase three project
 # Predicting Water Well Failures in Tanzania
 
 ## Overview
